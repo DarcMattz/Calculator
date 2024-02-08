@@ -1,0 +1,10 @@
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\bin\Debug\Carvajal_Calculator.exe.config
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\bin\Debug\Carvajal_Calculator.exe
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\bin\Debug\Carvajal_Calculator.pdb
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.csproj.AssemblyReference.cache
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.Properties.Resources.resources
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.csproj.GenerateResource.cache
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.exe
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.pdb
+C:\Users\johnv\source\repos\Carvajal_Calculator\Carvajal_Calculator\obj\Debug\Carvajal_Calculator.Calculator.resources
